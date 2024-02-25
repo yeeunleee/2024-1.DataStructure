@@ -9,7 +9,7 @@ typedef struct ArrayStack {
 void initStack(STACK *s, int n) {
     s->array = (int *) malloc(sizeof(int) * n);
     s->n = n;
-    s->top = -1;
+    s->top = -1; 
     return;
 }
 int isFull(STACK *s) {

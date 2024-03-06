@@ -42,8 +42,8 @@
 //     }
 //     for (int i = 0; i < 10; i++) {
 //         printf(" %d", x[i]);
-    // }
-    // return 0
+//     }
+//     return 0
 // }
 
 
@@ -184,5 +184,6 @@
 //         }
 //         printf("\n");
 //     }
+//     free(st);
 //     return 0;
 // }
